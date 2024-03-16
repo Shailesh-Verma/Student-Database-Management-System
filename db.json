@@ -1,0 +1,22 @@
+{
+  "student": [
+    {
+      "id": "a31e",
+      "sname": "shailesh verma ",
+      "semail": "shaileshverma238@gmail.com",
+      "mobile": "06876875875",
+      "gender": "male",
+      "address": "Amritpali ",
+      "course": "B.Tech"
+    },
+    {
+      "id": "383d",
+      "sname": "shailesh verma ",
+      "semail": "shaileshverma238@gmail.com",
+      "mobile": "06876875875",
+      "gender": "male",
+      "address": "Amritpali ",
+      "course": "B.Tech"
+    }
+  ]
+}
