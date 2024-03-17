@@ -1,22 +1,22 @@
 {
   "student": [
     {
-      "id": "a31e",
-      "sname": "shailesh verma ",
-      "semail": "shaileshverma238@gmail.com",
-      "mobile": "06876875875",
+      "id": "13db",
+      "sname": "Abc",
+      "semail": "abc@gmail.com",
+      "mobile": "0201000000",
       "gender": "male",
-      "address": "Amritpali ",
+      "address": "Noida",
       "course": "B.Tech"
     },
     {
-      "id": "383d",
-      "sname": "shailesh verma ",
-      "semail": "shaileshverma238@gmail.com",
-      "mobile": "06876875875",
+      "id": "7c0a",
+      "sname": "xyz",
+      "semail": "xyz123@gmail.com",
+      "mobile": "2121212121",
       "gender": "male",
-      "address": "Amritpali ",
-      "course": "B.Tech"
+      "address": "Delhi",
+      "course": "B.sc"
     }
   ]
 }
